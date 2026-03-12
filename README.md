@@ -6,7 +6,7 @@
 - Python
 - Git & GitHub
 - Problem Solving
-- 
+  
 ## What I'm doing
 - Building projects
 - Learning new technologies
