@@ -7,8 +7,8 @@
 - Git & GitHub
 - Problem Solving
   
-## What I'm doing
+What I'm doing
 - Building projects
 - Learning new technologies
-- Improving my coding skills every day
+- Improving my coding skills everyday
 
