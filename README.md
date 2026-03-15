@@ -1,7 +1,8 @@
  Hi there 👋
 💻 Student Developer  
 🌱 Currently learning programming and building projects  
-🚀 Interested in technology and software development  
+🚀 Interested in technology and software development 
+
 ## Skills
 - Python
 - Git & GitHub
@@ -10,5 +11,5 @@
 What I'm doing
 - Building projects
 - Learning new technologies
-- Improving my coding skills everyday
+- Improving my coding skills every day
 
